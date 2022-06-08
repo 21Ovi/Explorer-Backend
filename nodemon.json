@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "ovesh",
+    "DB_PASSWORD": "loWJSmoioamBCPw7",
+    "DB_NAME": "Explorer",
+    "GOOGLE_API_KEY": "AIzaSyCYwTw-DjyZGqFbZkoCSaaLVokSS7yDDz8",
+    "JWT_KEY": "supersecret_dont_share"
+  }
+}
